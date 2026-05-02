@@ -38,7 +38,6 @@
 
 #### 📚 Librerias
 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Newtonsoft Json](https://img.shields.io/badge/Newtonsoft%20Json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
@@ -53,13 +52,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
- 
- 
-
----
-
-### 🔗 &nbsp;Contactame
 
 <div align="center">
 </div>
